@@ -1,7 +1,7 @@
 <div>
 <h1  style="display: inline"> 
 Tabela de Campo
-<img  style="display: inline" src="logo.png" height="200" width="160">
+<img  align="right" style="display: inline" src="logo.png" height="200" width="160">
 </h1>
 
 </div>
