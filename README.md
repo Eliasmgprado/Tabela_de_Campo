@@ -1,7 +1,4 @@
 <p align="center"><img src="logo.png" height="300" width="230"></p>
-<h1  align="center"> 
-Tabela de Campo
-</h1>
 <br/>
 <br/>
 Tabela desenvolvida em excel para facilitar o armazenamento e processamento de dados geológicos de campo.
