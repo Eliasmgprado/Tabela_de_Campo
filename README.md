@@ -42,7 +42,7 @@ A alteração pode ser feita através do painel de controle. A localização da 
 Para atualizar uma tabela já preenchida para uma versão mais recente, siga os seguintes passos:
  * Abra a tabela em branco de versão mais recente
  * Vá a aba **Propriedades** e clique em **Importar Tabela de Campo**, 
- * Selecione a tabela de versão anterior, já preenchida, e prossiga com a importação.
+ * Selecione o arquivo *.xlsm* da tabela de versão anterior, já preenchida.
 
 ## Autor
 
