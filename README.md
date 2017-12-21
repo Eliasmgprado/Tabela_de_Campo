@@ -1,7 +1,7 @@
 # Tabela de Campo
 
 <h1>
-<img style="float: right;" src="https://github.com/Eliasmgprado/Tabela_de_Campo/blob/master/logo.png" height="20" width="20">
+<img style="float: left;" src="https://github.com/Eliasmgprado/Tabela_de_Campo/blob/master/logo.png" height="50" width="70">
 Tabela de Campo
 </h1>
 
