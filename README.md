@@ -1,8 +1,8 @@
 <div>
-<img   style="float: right;" src="logo.png" height="200" width="160">
-<h1 style="display: inline;"> 
+<h1> 
 Tabela de Campo
 </h1>
+<img   style="float: right;" src="logo.png" height="200" width="160">
 </div>
 Tabela desenvolvida em excel para facilitar o armazenamento e processamento de dados geológicos de campo.
 
