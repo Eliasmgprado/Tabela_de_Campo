@@ -1,2 +1,2 @@
-# Tabela_de_Campo
+# Ficha Petrográfica
 Excel table for field data
