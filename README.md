@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.png" height="300" width="230"></p>
+<p align="center"><img src="images/logo.png" height="300" width="230"></p>
 <br/>
 
 # Tabela de Campo
@@ -34,9 +34,9 @@ A alteração pode ser feita através do painel de controle. A localização da 
 ### DICAS IMPORTANTES
 
 
-* Caso as células de formula não estejam calculando, pressione F9 pra forçar o calculo da aba.
+* Caso as células de formula não estejam calculando, pressione **F9** pra forçar o calculo da aba.
 
-* Para abrir o site do GoogleMaps com um ponto da Tabela de Campo plotado, selecione uma célula do ponto e pressione Ctrl + Shift+ G.
+* Para abrir o site do GoogleMaps com um ponto da Tabela de Campo plotado, selecione uma célula do ponto e pressione **Ctrl + Shift+ G**.
 
 ### Atualizar Tabela
 Para atualizar uma tabela já preenchida para uma versão mais recente, siga os seguintes passos:
