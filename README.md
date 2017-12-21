@@ -1,4 +1,4 @@
-<img align="right" style="float: right;" src="logo.png" height="200" width="160">
+<img  src="logo.png" height="200" width="160">
 <h1 style="display: inline;"> 
 Tabela de Campo
 
@@ -13,3 +13,4 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 ## Autor
 
 * **Elias Martins Guerra Prado** - *Github* - [Eliasmgprado](https://github.com/Eliasmgprado)
+align="right" style="float: right;"
