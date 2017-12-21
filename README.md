@@ -15,8 +15,24 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 
 Antes de utilizar a tabela veja o [tutorial](https://github.com/Eliasmgprado/Tabela_de_Campo/raw/master/Guia_Tabela_de_Campo.pdf) para aprender a configurar e utilizar a tabela 
 
+### Configurando Região
+
+Algumas funções podem apresentar problemas caso o sistema operacional não esteja configurado no padrão americano de numeração (isto é, **ponto separador decimal e virgula separador de milhar**)
+
+A alteração pode ser feita através do painel de controle. A localização da opção pode variar, em função da versão do Windows. Em nosso exemplo, estamos ilustrando o passo-a-passo para o Windows 7. Para fazer a alteração siga os seguintes passos: 
+
+* Acesse o **Painel de controle**.
+* Na opção **Relógio, idioma e região**, selecione a opção **Alterar idioma de exibição**.
+* Clique na aba **formatos**. Em seguida, clique na opção **Configurações adicionais**.
+* Clique na aba **Números**
+* localize o campo *Símbolo decimal* (altere de vírgula para ponto).
+* localize o campo *Símbolo de agrupamento de dígitos* (altere de ponto para vírgula).
+* Clique em **Aplicar** e **Ok**.
+<p align="center"><img src="images/decimal_change.gif"></p>
+
+
 ### DICAS IMPORTANTES
-* Algumas funções podem apresentar problemas caso o sistema operacional não esteja configurado no padrão americano de numeração (isto é ponto separador decimal e virgula separador de milhar)
+
 
 * Caso as células de formula não estejam calculando, pressione F9 pra forçar o calculo da aba.
 
