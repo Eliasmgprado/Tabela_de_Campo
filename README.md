@@ -6,6 +6,7 @@ Tabela desenvolvida no Microsoft Excel para facilitar o armazenamento e processa
 inseridos na tabela. 
 
 A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido em Access pelo [Serviço Geológico do Brasil – SGB/CPRM](http://www.cprm.gov.br) utilizado para inserir dados de mapeamento geológico no [GeoSGB](http://geosgb.cprm.gov.br/) (banco de dados da empresa). A tabela  permite a exportação dos dados preenchidos para o aplicativo AFLORA&#169; de forma automatizada. 
+
 ## Download
 
 Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/Tabela_de_Campo/archive/master.zip)
