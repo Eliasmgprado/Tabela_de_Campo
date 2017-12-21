@@ -17,4 +17,4 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 * **Guilherme Iolino Troncon Guerra**
 
 ## Colaboradores
-* Equipe da Divisão de Geologia e Recursos Minerais (DGM) da Residência de Porto Velho (REPO), Rondônia (2015)
+* Equipe do [Serviço Geológico do Brasil – SGB/CPRM](http://www.cprm.gov.br), Divisão de Geologia e Recursos Minerais (DGM), Residência de Porto Velho (REPO), Rondônia (2015)
