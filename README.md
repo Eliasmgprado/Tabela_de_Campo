@@ -1,6 +1,5 @@
 <p align="center"><img src="logo.png" height="300" width="230"></p>
 <br/>
-<br/>
 
 # Tabela de Campo
 Tabela desenvolvida no Microsoft Excel para facilitar o armazenamento e processamento de dados geológicos de campo. Dados descritivos dos afloramentos, como características geográficas, localização, litologias, amostras coletadas, estruturas e recursos minerais, podem ser 
