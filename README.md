@@ -1,6 +1,6 @@
 <h1> 
 Tabela de Campo
-<img align="right" style="float: right;" src="https://github.com/Eliasmgprado/Tabela_de_Campo/blob/master/logo.png" height="200" width="170">
+<img align="right" style="float: right;" src="logo.png" height="200" width="170">
 </h1>
 
 Tabela desenvolvida em excel para facilitar o armazenamento e processamento de dados geológicos de campo.
