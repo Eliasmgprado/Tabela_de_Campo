@@ -14,3 +14,7 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 ## Autor
 
 * **Elias Martins Guerra Prado** - *Github* - [Eliasmgprado](https://github.com/Eliasmgprado)
+* **Guilherme Iolino Troncon Guerra**
+
+## Colaboradores
+* Equipe da Divisão de Geologia e Recursos Minerais da Residência de Porto Velho – RO (2015)
