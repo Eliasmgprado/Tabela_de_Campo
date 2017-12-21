@@ -1,7 +1,7 @@
 <div>
 <h1  style="display: inline"> 
 Tabela de Campo
-<img  align="right" style="display: inline" src="logo.png" height="200" width="160">
+<img  style="float: right;" style="display: inline" src="logo.png" height="200" width="160">
 </h1>
 
 </div>
@@ -15,4 +15,3 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 
 * **Elias Martins Guerra Prado** - *Github* - [Eliasmgprado](https://github.com/Eliasmgprado)
 
-style="float: right;"
