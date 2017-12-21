@@ -1,8 +1,7 @@
 <div>
-<img  src="logo.png" height="200" width="160">
+<img   style="float: right;" src="logo.png" height="200" width="160">
 <h1 style="display: inline;"> 
 Tabela de Campo
-
 </h1>
 </div>
 Tabela desenvolvida em excel para facilitar o armazenamento e processamento de dados geológicos de campo.
@@ -14,4 +13,4 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 ## Autor
 
 * **Elias Martins Guerra Prado** - *Github* - [Eliasmgprado](https://github.com/Eliasmgprado)
-align="right" style="float: right;"
+align="right"
