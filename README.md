@@ -13,7 +13,7 @@ Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/
 
 ## Primeiros Passos
 
-
+Antes de utilizar a tabela veja o [tutorial](https://github.com/Eliasmgprado/Tabela_de_Campo/raw/master/Guia_Tabela_de_Campo.pdf) para aprender a configurar e utilizar a tabela 
 
 ## Autor
 
