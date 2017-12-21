@@ -28,7 +28,7 @@ A alteração pode ser feita através do painel de controle. A localização da 
 * localize o campo *Símbolo decimal* (altere de vírgula para ponto).
 * localize o campo *Símbolo de agrupamento de dígitos* (altere de ponto para vírgula).
 * Clique em **Aplicar** e **Ok**.
-<p align="center"><img src="images/decimal_change.gif"></p>
+<p align="center"><img src="images/decimal_change.gif" height="500" width="400"></p>
 
 
 ### DICAS IMPORTANTES
