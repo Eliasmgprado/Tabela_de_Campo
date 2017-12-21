@@ -35,3 +35,4 @@ Para atualizar uma tabela já preenchida para uma versão mais recente, siga os 
 
 ## Colaboradores
 * Equipe do [Serviço Geológico do Brasil – SGB/CPRM](http://www.cprm.gov.br), Divisão de Geologia e Recursos Minerais (DGM), Residência de Porto Velho (REPO), Rondônia (2015)
+
