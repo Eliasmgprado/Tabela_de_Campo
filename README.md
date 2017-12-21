@@ -2,7 +2,7 @@
 
 <h1> 
 Tabela de Campo
-<img align="right" src="https://github.com/Eliasmgprado/Tabela_de_Campo/blob/master/logo.png" height="150" width="130">
+<img style="float: right;" src="https://github.com/Eliasmgprado/Tabela_de_Campo/blob/master/logo.png" height="150" width="130">
 </h1>
 
 
