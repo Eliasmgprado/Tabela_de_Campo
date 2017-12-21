@@ -1,4 +1,4 @@
-<img  align="middle" src="logo.png" height="200" width="160">
+<div style="text-align:center"><img  align="middle" src="logo.png" height="200" width="160"></div>
 <h1  align="center"> 
 Tabela de Campo
 </h1>
