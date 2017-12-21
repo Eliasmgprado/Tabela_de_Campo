@@ -1,4 +1,4 @@
-<h1> 
+<h1 style="display: inline;"> 
 Tabela de Campo
 <img align="right" style="float: right;" src="logo.png" height="200" width="160">
 </h1>
