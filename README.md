@@ -1,4 +1,4 @@
-<p align="center"><a href="https://eliasmgprado.github.io/Tabela_de_Campo/"><img src="images/logo.png" height="300" width="230"></a></p>
+﻿<p align="center"><a href="https://eliasmgprado.github.io/Tabela_de_Campo/"><img src="images/logo.png" height="300" width="230"></a></p>
 <br/>
 
 # Tabela de Campo
@@ -9,7 +9,7 @@ A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido 
 
 ## Download
 
-#### Ultima Atualização: 20/06/2018
+#### Ultima Atualização: 02/10/2018
 
 Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/Tabela_de_Campo/archive/master.zip)
 
