@@ -9,7 +9,7 @@ A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido 
 
 ## Download
 
-#### Ultima Atualização: 03/10/2019
+#### Ultima Atualização: 11/05/2020
 
 Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/Tabela_de_Campo/archive/master.zip)
 
