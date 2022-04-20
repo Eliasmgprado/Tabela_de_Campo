@@ -9,7 +9,7 @@ A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido 
 
 ## Download
 
-#### Ultima Atualização: 13/04/2022
+#### Ultima Atualização: 20/04/2022
 
 Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/Tabela_de_Campo/archive/master.zip) (inclui ficha petrográfica)
 
