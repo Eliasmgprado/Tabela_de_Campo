@@ -5,11 +5,11 @@
 Tabela desenvolvida no Microsoft Excel para facilitar o armazenamento e processamento de dados geológicos de campo. Dados descritivos dos afloramentos, como características geográficas, localização, litologias, amostras coletadas, estruturas e recursos minerais, podem ser 
 inseridos na tabela. 
 
-A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido em Access pelo [Serviço Geológico do Brasil – SGB/CPRM](http://www.cprm.gov.br) utilizado para inserir dados de mapeamento geológico no [GeoSGB](http://geosgb.cprm.gov.br/) (banco de dados da empresa). A tabela  permite a exportação dos dados preenchidos para o aplicativo AFLORA&#169; de forma automatizada. 
+A tabela foi desenvolvida com base no aplicativo AFLORA&#169;, API desenvolvido em Access pelo [Serviço Geológico do Brasil – SGB](http://www.sgb.gov.br) utilizado para inserir dados de mapeamento geológico no [GeoSGB](https://geosgb.sgb.gov.br/) (banco de dados da empresa). A tabela  permite a exportação dos dados preenchidos para o aplicativo AFLORA&#169; de forma automatizada. 
 
 ## Download
 
-#### Ultima Atualização: 20/04/2022
+#### Ultima Atualização: 16/01/2024
 
 Para baixar a **Tabela de Campo** clique [aqui](https://github.com/Eliasmgprado/Tabela_de_Campo/archive/master.zip) (inclui ficha petrográfica)
 
